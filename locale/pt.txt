@@ -1,0 +1,63 @@
+#: locale=pt
+
+## Tour
+
+### Description
+tour.description = Conheça toda á nossa estrutura em Metaverso.
+
+### Title
+tour.name = Tour Virtual 360º - Academia Stronger Fitness
+
+## Skin
+
+### Button
+Button_A021923B_B23F_762B_41C9_D88AE6B679EB.label = Nossos Links 
+Button_A021923B_B23F_762B_41C9_D88AE6B679EB_mobile.label = Instagram 
+Button_A157FC70_B23F_1235_41B4_A47CA8EDB7F4.label = WhatsApp
+Button_A157FC70_B23F_1235_41B4_A47CA8EDB7F4_mobile.label = WhatsApp 
+
+## Media
+
+### Title
+panorama_2A9750C6_335F_AF08_41C7_5AA10A3B0312.label = Stronger Fitness
+panorama_2B4EC622_3536_E433_41AB_5C06C609BB0C.label = ADD PROJETO 1
+panorama_2D1AB730_3536_A42F_41BF_896F7190B033.label = ADD PROJETO 2
+panorama_3E4B8EE1_34EE_A430_41A9_AD4B192D67A0.label = IMG_20220521_073135_00_merged
+panorama_3E4CC66A_34EF_6430_41A6_96AF7F6D9C7D.label = PARTE SUPERIOR 2
+panorama_3E4D021F_34EE_9C11_4194_C8AD2626593E.label = INFERIOR 1
+panorama_3E4D14A5_34EE_A431_41C7_BF74C95EB219.label = PARTE SUPERIOR 1
+panorama_3E4D4006_34EE_FBF3_41BE_776F9D283CCB.label = INFERIOR 3
+panorama_3E4D6EB2_34EE_E410_41A2_27E697641578.label = INFERIOR 4
+panorama_3E4DA830_34ED_6C10_4195_6ACA9EB4C8C8.label = INFERIOR 7
+panorama_3E4DF731_34ED_6411_41B6_34F68925F68A.label = CROSSFIT 
+panorama_3E4F174D_34EF_6471_41B6_33A59BDDB8C0.label = SUPERIOR 3
+panorama_3E4F4A9C_34EF_AC10_4171_F08498572FA5.label = CONJUNTO C SUPERIOR 3
+panorama_3E4F4B10_34EF_EDEF_41B8_C01E21D76C12.label = IMG_20220521_074312_00_merged
+panorama_3E4F7B9B_34EF_EC10_41BE_971E82319141.label = CONJUNTO 02 COM SUPERIOR 03
+panorama_3E4FBC65_34EF_6430_41C2_3E2DE9905638.label = CONJUNTO 03 COM ADD PROJETO 01
+panorama_3E4FED83_34EE_A4F1_41C8_D59B7A4064A2.label = IMG_20220521_073306_00_merged
+panorama_3E4FED9D_34EF_6411_41C7_21605DF1EC62.label = IMG_20220521_073503_00_merged
+panorama_3F717E81_34EE_E4F1_41C1_057F7889CD57.label = IMG_20220521_073018_00_merged
+panorama_E8801204_E54D_F619_41A1_177937150FEB.label = INFERIOR 2
+video_12414745_3712_A471_41BA_2977B7488738.label = CORRETO 2
+video_13F1732E_3737_FC33_41AD_BC19419D9DA8.label = CORRETO
+
+## Popup
+
+### Body
+htmlText_13BA09AA_3737_AC33_41B9_81AD523E997B.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_13F4494D_3712_EC71_41AE_774609D97E9C.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+## Action
+
+### URL
+LinkBehaviour_FC151EB8_E54F_0E6A_41E7_0CEA11EC05BA.source = https://linktr.ee/academiastrongerfitness
+LinkBehaviour_FE3DCDD0_E547_F239_41D6_82FB4662A72C.source = https://api.whatsapp.com/send?phone=5562982935040&text=Ol%C3%A1%2C%20estava%20assistindo%20o%20seu%20Tour%20Virtual%2C%20gostei%20da%20academia%20e%20gostaria%20de%20saber%20mais%20informa%C3%A7%C3%B5es.
+LinkBehaviour_FE8AFD68_E547_32E9_41C5_D8EAF173C978.source = https://www.google.com/maps/dir//Academia+Stronger+Fitness+-+Av.+das+Na%C3%A7%C3%B5es,+Qd+40+-+Lt+31+-+Campos+El%C3%ADseos,+Aparecida+de+Goi%C3%A2nia+-+GO,+74956-320/@-16.8035361,-49.3220994,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x935ef9aa1be17daf:0xb62f9f36ec18e804!2m2!1d-49.3199038!2d-16.8035467!3e0
+LinkBehaviour_FEE12620_E543_1E1A_41DB_176C660D9BDD.source = https://www.instagram.com/fitnesstronger/
+LinkBehaviour_FEF63218_E547_162A_41D8_BEE7AF15E251.source = https://www.instagram.com/fitnesstronger/
+LinkBehaviour_FF0ABE97_E547_0E26_41AC_01C7FA1C3F10.source = https://www.instagram.com/fitnesstronger/
+LinkBehaviour_FF35A089_E54D_322B_41E2_82D3FC570BE0.source = https://api.whatsapp.com/send?phone=5562982935040&text=Ol%C3%A1%2C%20estava%20assistindo%20o%20seu%20Tour%20Virtual%2C%20gostei%20da%20academia%20e%20gostaria%20de%20saber%20mais%20informa%C3%A7%C3%B5es.
+LinkBehaviour_FFCD75B6_E543_1279_41DE_69CC94008D41.source = https://www.google.com/maps/dir//Academia+Stronger+Fitness+-+Av.+das+Na%C3%A7%C3%B5es,+Qd+40+-+Lt+31+-+Campos+El%C3%ADseos,+Aparecida+de+Goi%C3%A2nia+-+GO,+74956-320/@-16.8035361,-49.3220994,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x935ef9aa1be17daf:0xb62f9f36ec18e804!2m2!1d-49.3199038!2d-16.8035467!3e0
+LinkBehaviour_FFD41618_E543_3E2A_41D3_FA5205334B82.source = https://api.whatsapp.com/send?phone=5562982935040&text=Ol%C3%A1%2C%20estava%20assistindo%20o%20seu%20Tour%20Virtual%2C%20gostei%20da%20academia%20e%20gostaria%20de%20saber%20mais%20informa%C3%A7%C3%B5es.
+LinkBehaviour_FFF5C3A8_E545_166A_41E8_8207E45AC2EA.source = https://api.whatsapp.com/send?phone=5562982935040&text=Ol%C3%A1%2C%20estava%20assistindo%20o%20seu%20Tour%20Virtual%2C%20gostei%20da%20academia%20e%20gostaria%20de%20saber%20mais%20informa%C3%A7%C3%B5es.
