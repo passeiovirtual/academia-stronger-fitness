@@ -6,22 +6,31 @@
     <meta name="viewport" id="metaViewport" content="user-scalable=no, initial-scale=1, width=device-width, viewport-fit=cover" data-tdv-general-scale="0.5"/>
     <meta name="apple-mobile-web-app-capable" content="yes"/>
     <meta name="apple-mobile-web-app-status-bar-style" content="default">
-    <link rel="preload" href="locale/pt.txt?v=1661716020575" as="fetch" crossorigin="anonymous"/>
-	<link rel="preload" href="script.js?v=1661716020575" as="script"/>
-	<link rel="preload" href="media/panorama_2A9750C6_335F_AF08_41C7_5AA10A3B0312_0/r/2/0_0.jpg?v=1661716020575" as="image"/>
-	<link rel="preload" href="media/panorama_2A9750C6_335F_AF08_41C7_5AA10A3B0312_0/l/2/0_0.jpg?v=1661716020575" as="image"/>
-	<link rel="preload" href="media/panorama_2A9750C6_335F_AF08_41C7_5AA10A3B0312_0/u/2/0_0.jpg?v=1661716020575" as="image"/>
-	<link rel="preload" href="media/panorama_2A9750C6_335F_AF08_41C7_5AA10A3B0312_0/d/2/0_0.jpg?v=1661716020575" as="image"/>
-	<link rel="preload" href="media/panorama_2A9750C6_335F_AF08_41C7_5AA10A3B0312_0/f/2/0_0.jpg?v=1661716020575" as="image"/>
-	<link rel="preload" href="media/panorama_2A9750C6_335F_AF08_41C7_5AA10A3B0312_0/b/2/0_0.jpg?v=1661716020575" as="image"/>
+    <link rel="shortcut icon" href="favicon.ico?v=1661724263439">
+	<link rel="icon" sizes="48x48 32x32 16x16" href="favicon.ico?v=1661724263439">
+	<link rel="apple-touch-icon" type="image/png" sizes="180x180" href="misc/icon180.png?v=1661724263439">
+	<link rel="icon" type="image/png" sizes="16x16" href="misc/icon16.png?v=1661724263439">
+	<link rel="icon" type="image/png" sizes="32x32" href="misc/icon32.png?v=1661724263439">
+	<link rel="icon" type="image/png" sizes="192x192" href="misc/icon192.png?v=1661724263439">
+	<link rel="manifest" href="manifest.json?v=1661724263439">
+	<meta name="msapplication-TileColor" content="#FF0000">
+	<meta name="msapplication-config" content="browserconfig.xml">
+	<link rel="preload" href="locale/pt.txt?v=1661724263439" as="fetch" crossorigin="anonymous"/>
+	<link rel="preload" href="script.js?v=1661724263439" as="script"/>
+	<link rel="preload" href="media/panorama_2A9750C6_335F_AF08_41C7_5AA10A3B0312_0/r/2/0_0.jpg?v=1661724263439" as="image"/>
+	<link rel="preload" href="media/panorama_2A9750C6_335F_AF08_41C7_5AA10A3B0312_0/l/2/0_0.jpg?v=1661724263439" as="image"/>
+	<link rel="preload" href="media/panorama_2A9750C6_335F_AF08_41C7_5AA10A3B0312_0/u/2/0_0.jpg?v=1661724263439" as="image"/>
+	<link rel="preload" href="media/panorama_2A9750C6_335F_AF08_41C7_5AA10A3B0312_0/d/2/0_0.jpg?v=1661724263439" as="image"/>
+	<link rel="preload" href="media/panorama_2A9750C6_335F_AF08_41C7_5AA10A3B0312_0/f/2/0_0.jpg?v=1661724263439" as="image"/>
+	<link rel="preload" href="media/panorama_2A9750C6_335F_AF08_41C7_5AA10A3B0312_0/b/2/0_0.jpg?v=1661724263439" as="image"/>
 	<script src="scorm.js" type="text/javascript"></script>
 	<meta name="description" content="Conheça toda á nossa estrutura em Metaverso."/>
-	<meta name="theme-color" content="#000000"/>
-    <script src="lib/tdvplayer.js?v=1661716020575"></script>
-    <script src="script.js?v=1661716020575"></script>
+	<meta name="theme-color" content="#FF0000"/>
+    <script src="lib/tdvplayer.js?v=1661724263439"></script>
+    <script src="script.js?v=1661724263439"></script>
     <script type="text/javascript">
         var tour;
-        var devicesUrl = {"general":"script_general.js?v=1661716020575","mobile":"script_mobile.js?v=1661716020575"};
+        var devicesUrl = {"general":"script_general.js?v=1661724263439","mobile":"script_mobile.js?v=1661724263439"};
 
         (function()
         {
@@ -64,9 +73,9 @@
 
             var settings = new TDV.PlayerSettings();
             settings.set(TDV.PlayerSettings.CONTAINER, document.getElementById('viewer'));
-            settings.set(TDV.PlayerSettings.WEBVR_POLYFILL_URL, 'lib/WebVRPolyfill.js?v=1661716020575');
-            settings.set(TDV.PlayerSettings.HLS_URL, 'lib/Hls.js?v=1661716020575');
-            settings.set(TDV.PlayerSettings.QUERY_STRING_PARAMETERS, 'v=1661716020575');
+            settings.set(TDV.PlayerSettings.WEBVR_POLYFILL_URL, 'lib/WebVRPolyfill.js?v=1661724263439');
+            settings.set(TDV.PlayerSettings.HLS_URL, 'lib/Hls.js?v=1661724263439');
+            settings.set(TDV.PlayerSettings.QUERY_STRING_PARAMETERS, 'v=1661724263439');
 
             tour = new TDV.Tour(settings, devicesUrl);
             tour.bind(TDV.Tour.EVENT_TOUR_INITIALIZED, onVirtualTourInit);
@@ -310,12 +319,12 @@
         .fill-viewport.landscape-left { left: env(safe-area-inset-left); }
 		.fill-viewport.landscape-right { right: env(safe-area-inset-right); }
         #viewer { z-index:1; }
-        #preloadContainer { z-index:2; opacity:0; background-color:rgba(0,0,0,1); transition: opacity 0.5s; -webkit-transition: opacity 0.5s; -moz-transition: opacity 0.5s; -o-transition: opacity 0.5s;}
+        #preloadContainer { z-index:2; opacity:0; background-color:rgba(255,0,0,1); transition: opacity 0.5s; -webkit-transition: opacity 0.5s; -moz-transition: opacity 0.5s; -o-transition: opacity 0.5s;}
     </style>
-    <link rel="stylesheet" href="fonts.css?v=1661716020575">
+    <link rel="stylesheet" href="fonts.css?v=1661724263439">
 </head>
 <body>
-    <div id="preloadContainer" class="fill-viewport"><div style="z-index: 4; position: absolute; background-image: url('loading/HTMLImage_FDCEE791_E5BD_1E3A_41D4_332CD19DAAA5.png'); background-size: contain; background-repeat: no-repeat; background-position: center center; overflow: hidden; right: 16.129032258064516%; bottom: 21.440823327615792%; width: 65.94%; height: 54.38%"></div></div>
+    <div id="preloadContainer" class="fill-viewport"><div style="z-index: 4; position: absolute; background-image: url('loading/HTMLImage_FDCEE791_E5BD_1E3A_41D4_332CD19DAAA5.png'); background-size: contain; background-repeat: no-repeat; background-position: center center; overflow: hidden; right: 16.13%; bottom: 21.44%; width: 65.94%; height: 54.38%"></div></div>
     <div id="viewer" class="fill-viewport"></div>
 </body>
 </html>
